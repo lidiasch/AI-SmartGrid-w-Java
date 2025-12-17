@@ -1,2 +1,3 @@
 # AI-SmartGrid-w-Java
-Building an AI-Plattform for Energy Smart Grid with Java
+Building an AI-Plattform for Energy Smart Grid in Java and Python is an excellent choise for enterprise environments where reliability, concurency, and integration with industrial hardware are critical. We move from a general "Smart Grid" to one specifically for Renewable Energy. This new aspect changes the core challenge from monitoring to predicting and balancing.
+With renewable sources (solar/wind) we lose the ability to generate power "on demand". We must switch to an architecture that predicts availability and shapes demand to match it. An AI Plattform for Renewable smart Grids is often called a Virtual Power Plant (VPP) plattform.
