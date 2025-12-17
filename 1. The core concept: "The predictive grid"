@@ -1,0 +1,4 @@
+In a traditional grid a nuclear or a coal plant can be turned up when poeple wake up. In a renewable grid, one can't turn the sun or the wind on. Therefore, our AI plattform has three specific jobs:
+1. Forecast: How much energy will the sun/wind generate in 15 minutes?
+2. Flexibility: Which batteries or EVs can I charge now while the sun is shining?
+3. Trading: Sells the excess energy to the market automatically.
